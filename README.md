@@ -1,1 +1,1 @@
-# challengework
+Data structure and C++ methods.
